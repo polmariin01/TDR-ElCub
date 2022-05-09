@@ -1,0 +1,37 @@
+Conectar Python con Arduino:
+
+	https://www.instructables.com/id/Programming-Arduino-Using-Python-1/
+	https://polaridad.es/monitorizacion-ordenador-sensores-arduino-python/
+	https://www.pybonacci.org/2014/01/19/leer-datos-de-arduino-desde-python/
+
+
+Motors pas a pas:
+
+
+
+Arduino, drivers i motors:
+
+
+Java:
+	
+
+
+
+Fridrich:
+
+
+
+Instalar modulos:
+
+
+
+
+Crear GIFs online:
+
+	
+
+
+Pàgines on la gent pregunta dutbtes sobre codis:
+
+	https://github.com
+	https://stackoverflow.com

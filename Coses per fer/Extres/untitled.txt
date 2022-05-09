@@ -1,0 +1,1 @@
+D' R2 F' D2 F2 U2 L' R D' R2 B F R' U2 L' F2 R' U2 R' U'  (20f*)   //Impossible
