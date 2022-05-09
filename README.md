@@ -15,7 +15,7 @@ El codi del meu treball està dividit en tres parts principals:
         També es pot desmuntar aleatoriament
         I muntar de nou, guardant els moviments que ha fet (que posteriorment li passava al Arduino per a resoldre el cub físic)
         
-  * Detecció de colors (Processing)
+  * Detecció de colors (Java amb Processing)
         Aquest programa agafa 6 fotos (1 de cada cara) i torna un arxiu de text amb els colors que ha sapigut detectar
         El programa amb Python pot agafar aquest arxiu i posar els colors detectats a les variables pertinents
         
@@ -27,4 +27,4 @@ El codi del meu treball està dividit en tres parts principals:
         La lletra diu quin motor es mou, per exemple f vol dir Front, r - Right ...
         Si es majúscula o minúscula representa si s'ha de moure horariament o antihorariament
         
-Està tot millor explicat a la memoria '''TDR.pdf'''
+Està tot millor explicat a la memoria TDR.pdf
