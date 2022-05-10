@@ -27,4 +27,4 @@ El codi del meu treball està dividit en tres parts principals:
         La lletra diu quin motor es mou, per exemple f vol dir Front, r - Right ...
         Si es majúscula o minúscula representa si s'ha de moure horariament o antihorariament
         
-Està tot millor explicat a la memoria TDR.pdf
+Està tot millor explicat a la memoria TDR-ElCub.pdf
